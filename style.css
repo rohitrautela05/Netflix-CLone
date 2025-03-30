@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* navbar editing */
+.navbar{
+    position: fixed;
+    display: flex;
+    height: 10vh;
+    width: 100vw;
+    background-color: red;
+    /* color: orange; */
+}
+.logo img{height: 100px;
+    width: 200px;
+}
+.options{
+    display: flex;
+    height: 10vh;
+    width: 50vw;
+    background-color: red;
+    /* color: orange; */
+}
+.option{
+    height: 10vh;
+    width: 8vw;
+}
+.icons{
+    display: flex;
+
+}
